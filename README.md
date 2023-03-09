@@ -13,6 +13,6 @@ This makes the code a valuable tool not only for players who want to increase th
 In summary, the Python code created to maximize the efficiency of the Stalker unit in the game Starcraft II represents an innovative and highly effective approach to combat in electronic games. With its ability to consistently and efficiently win battles, it is a valuable tool for players, researchers, and developers around the world.
 
 
-Perfect Stalker Blink
+Perfect Stalker Blink - Video
 [![Perfect Stalker Blink](https://i.ytimg.com/vi/oPtMWcs1Pic/maxresdefault.jpg)]([LINK_DO_VIDEO](https://www.youtube.com/embed/oPtMWcs1Pic))
 
