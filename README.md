@@ -11,5 +11,5 @@ In summary, the Python code created to maximize the efficiency of the Stalker un
 Perfect Stalker Blink - Video
 
 https://www.youtube.com/embed/oPtMWcs1Pic
-[![Perfect Stalker Blink](https://i.ytimg.com/vi/oPtMWcs1Pic/maxresdefault.jpg)]([https://www.youtube.com/embed/oPtMWcs1Pic])
+[![Perfect Stalker Blink](https://iili.io/HXn4OOu.png)]([https://www.youtube.com/embed/oPtMWcs1Pic])
 
