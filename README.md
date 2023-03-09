@@ -1,4 +1,4 @@
-# SC2_StalkerBlink
+# Stactaft II  Perfect Stalker Blink
 
 This Python code was written to maximize the efficiency of the Stalker unit in SC2 by using the maximum of its efficient attack time, durability, and awareness of its Blink ability. In 95% of cases, the algorithm wins the combat without losing any unit.
 
@@ -12,5 +12,7 @@ This makes the code a valuable tool not only for players who want to increase th
 
 In summary, the Python code created to maximize the efficiency of the Stalker unit in the game Starcraft II represents an innovative and highly effective approach to combat in electronic games. With its ability to consistently and efficiently win battles, it is a valuable tool for players, researchers, and developers around the world.
 
-[![Nome do vídeo](https://i.ytimg.com/vi/oPtMWcs1Pic/maxresdefault.jpg)]([LINK_DO_VIDEO](https://www.youtube.com/embed/oPtMWcs1Pic))
+
+Perfect Stalker Blink
+[![Perfect Stalker Blink](https://i.ytimg.com/vi/oPtMWcs1Pic/maxresdefault.jpg)]([LINK_DO_VIDEO](https://www.youtube.com/embed/oPtMWcs1Pic))
 
